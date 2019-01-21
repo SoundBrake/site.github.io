@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 13419,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "services.html",
+			"settings":
+			{
+				"buffer_size": 10235,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gallery.html",
+			"settings":
+			{
+				"buffer_size": 13347,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control:install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Jean/GWC/imahe",
+		"/C/Jean/GWC/sonar"
+	],
+	"file_history":
+	[
+		"/C/Users/Jing/AppData/Roaming/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/C/Jean/GWC/LivoniaGWCSite/AboutUs.html",
+		"/C/Jean/GWC/LivoniaGWCSite/PhotoGallery.html",
+		"/C/Jean/GWC/LivoniaGWCSite/index.html",
+		"/C/Users/Jing/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/C/Projects/android/FRCScouting-development/FRC_Scouting_Server/scouting.php",
+		"/C/Users/Jing/git/SpringBootCalculatorExample/CalcExample/.classpath",
+		"/C/Users/Jing/git/SpringBootCalculatorExample/CalcExample/.gitignore",
+		"/C/Users/Jing/.android/avd/Nexus_5_API_19.avd/config.ini",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-3/wp-config.php",
+		"/C/Projects/android/FRCScouting-development/FRC_Scouting_Server/update2.2017.0.2to2.2017.0.3.sql",
+		"/C/Projects/android/FRCScouting-development/FRC_Scouting_Server/scouting-header.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/scouting.php",
+		"/C/Projects/android/FRCScouting-development/FRC_Scouting_Server/scouting.sql",
+		"/C/Projects/STS/spring-boot-ajax-example/sql/scouting_script.sql",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Projects/STS/gs-spring-boot-master/gs-spring-boot-master/complete/src/main/java/hello/HelloController.java",
+		"/C/Jean/gs-serving-web-content-master/complete/pom.xml",
+		"/C/Users/Jing/Downloads/installer.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/wp-config 2.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/header-topbar 2.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/functions 2.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/sidebar 2.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/page.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/product-searchform.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/virtue.css",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/head.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/content-page.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/sidebar.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/footer 2.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/footer 3.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/style 2.css",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/default.css",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/header-topbar.php",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-2/wpforms.php",
+		"/C/Users/Jing/Dropbox/aidi/site_backup/05202016/index.html",
+		"/C/Users/Jing/Downloads/wordpress-4.5.2/wordpress/wp-config.php",
+		"/C/Jean/Virtue v3.7.5 – Premium Responsive WordPress Theme/Virtue v3.7.5 – Premium Responsive WordPress Theme/ReadME .txt",
+		"/C/Jean/Virtue v3.7.5 – Premium Responsive WordPress Theme/Virtue v3.7.5 – Premium Responsive WordPress Theme/Virtue v3.7.5 Premium – Premium WordPress Theme/Docs/Online Documentation.txt",
+		"/E/READ ME.txt",
+		"/C/Users/Jing/AppData/Local/Temp/Temp1_amt_emulator_xiazai.com.zip/amt_emulator/+˜+˜+f+¦+¦.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Jing/Desktop/GitHubLog.txt",
+		"/C/Users/Jing/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Jing/.gitconfig",
+		"/C/Users/Jing/AppData/Local/Temp/Temp1_amt_emulator_xiazai.com.zip/amt_emulator/changelog.txt",
+		"/E/xml/hbbc2_z1_Architecture.xml",
+		"/E/xml/hbbc2_x7_elfio.csv",
+		"/E/xml/Project_Report_Schema.xsd",
+		"/D/03_Equipment Search Tool/For Windows OS/readme.txt",
+		"/C/Users/Jing/AppData/Local/Temp/Temp1_backup-tue-apr-26-13_32_23-2016.zip/homedir/public_html/wp-config-sample.php",
+		"/C/Users/Jing/AppData/Local/Temp/Temp1_backup-tue-apr-26-13_32_23-2016.zip/homedir/public_html/wp-config.php",
+		"/C/Users/Jing/AppData/Local/Temp/Temp1_backup-tue-apr-26-13_38_37-2016.zip/mysql/suiyuann_wp_vo6l.sql",
+		"/C/Users/Jing/Dropbox/aidi/site_backup/05102015/installer.php",
+		"/C/Users/Jing/Dropbox/aidi/site_backup/05102015/wp-config.php",
+		"/D/04_Central Management Software/readme.txt",
+		"/C/Users/Jing/Downloads/Amazon_small.csv",
+		"/C/Users/Jing/Downloads/Google_small.csv",
+		"/C/Jean/spark_study/lab3/lab3_text_analysis_and_entity_resolution_student.ipynb_new",
+		"/C/Users/Jing/Dropbox/air_ticket/boarding_pass.pdf",
+		"/C/Users/Jing/MainActivity.java",
+		"/C/Jean/W2_project_pilot/finalResult.txt",
+		"/E/Jean/GE_Projects/GE_backup/Projects/STS/GECASMobile/src/main/java/com/ge/capital/gecas/mobile/web/services/GECASMobileServices.java",
+		"/C/Users/Jing/AppData/Local/Temp/Temp1_caffeine.zip/readme.txt",
+		"/C/Users/Jing/AppData/Local/Temp/Temp1_gs-scheduling-tasks-master.zip/gs-scheduling-tasks-master/initial/pom.xml",
+		"/C/Users/Jing/Downloads/php.ini",
+		"/C/Users/Jing/Downloads/Ftp suiyuann@suiyuanny.com.xml",
+		"/C/Users/Jing/AppData/Local/Temp/Temp1_backup-tue-apr-26-13_38_37-2016.zip/mysql/suiyuann_wp_vo6l.create",
+		"/C/Users/Jing/AppData/Local/Temp/Temp1_backup-tue-apr-26-13_38_37-2016.zip/mysql/roundcube.sql",
+		"/C/Jean/W2_project_pilot/test4.txt",
+		"/C/Jean/spark_study/spark_tutorial_student.ipynb",
+		"/C/Jean/spark_study/lab3/lab3_text_analysis_and_entity_resolution_student.ipynb",
+		"/C/Jean/spark_study/lab2_apache_log_student.ipynb",
+		"/C/Jean/spark_study/ab1_word_count_student.ipynb",
+		"/C/Apps/EAP-6.4.0/modules/com/mysql/jdbc/main/module.xml",
+		"/C/Apps/EAP-6.4.0/standalone/deployments/README.txt",
+		"/D/CD-KEY.txt",
+		"/C/Users/Jing/Downloads/Scramble.py",
+		"/C/Users/Jing/Dropbox/Proj 10/main.py",
+		"/C/Users/Jing/Downloads/project07.py",
+		"/C/Users/Jing/Dropbox/Proj 11/Proj11.py",
+		"/C/Users/Jing/Dropbox/Proj 10/Project10.py",
+		"/C/Users/Jing/Dropbox/CSE-Projects/project09.py",
+		"/C/Users/Jing/Downloads/lab0_student.py",
+		"/C/Users/Jing/Documents/IMG_20150606_0001.pdf",
+		"/C/Users/Jing/myvagrant/Vagrantfile",
+		"/C/Apps/EAP-6.4.0/standalone/configuration/standalone-full.xml",
+		"/C/Apps/EAP-6.4.0/standalone/configuration/standalone.xml",
+		"/C/Jean/myvagrant/Vagrantfile",
+		"/C/Users/Jing/Dropbox/Proj 07/proj07.pdf",
+		"/C/Apps/jbdevstudio/runtimes/jboss-eap/standalone/configuration/standalone.xml",
+		"/C/Apps/EAP-6.4.0/standalone/deployments/ticket-monster.war.deployed"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".form-search .search-icon",
+			"icon-search",
+			"icon-search:before",
+			"Configuration",
+			"Data_Item_Info",
+			"Configuration",
+			"goes here",
+			"default",
+			"Featured Section",
+			"feature",
+			"feature section",
+			"TODO",
+			"python",
+			"mysql",
+			"ticket-monster"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "services.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gallery.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 13347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "imahe.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
